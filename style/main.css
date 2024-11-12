@@ -123,7 +123,7 @@ html {
 
 .six .hat {
     position: absolute;
-    left: 23%; /* Center horizontally within .six */
+    left: 52%; /* Center horizontally within .six */
     top: -43%; /* Adjust this for vertical positioning, fine-tune as needed */
     transform: translateX(-50%); /* Perfect horizontal centering */
     width: 80px; /* Width of the hat */
