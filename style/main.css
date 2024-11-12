@@ -3,7 +3,7 @@ html {
   }
   
   body {
-    font-family: 'Dancing Script', cursive;
+    font-family: 'Poppins', sans-serif;
     margin: 0;
     background: linear-gradient(to right, #ffb3c1, #ffb6d1, #d7f1ff, #e0f7fa); /* Lighter pastel colors */
     background-size: 400% 400%;
